@@ -35,7 +35,7 @@ class ViewController: UIViewController, UITextFieldDelegate, URLSessionDelegate 
     
     let kTenantName = "fabrikamb2c.onmicrosoft.com" // Your tenant name
     let kAuthorityHostName = "fabrikamb2c.b2clogin.com" // Your authority host name
-    let kClientID = "90c0fe63-bcf2-44d5-8fb7-b8bbc0b29dc6" // Your client ID from the portal when you created your application
+    let kClientID = "Enter_the_Application_Id_Here" // Your client ID from the portal when you created your application
     let kSignupOrSigninPolicy = "b2c_1_susi" // Your signup and sign-in policy you created in the portal
     let kEditProfilePolicy = "b2c_1_edit_profile" // Your edit policy you created in the portal
     let kResetPasswordPolicy = "b2c_1_reset" // Your reset password policy you created in the portal
